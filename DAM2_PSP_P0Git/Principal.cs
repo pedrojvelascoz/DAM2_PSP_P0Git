@@ -13,7 +13,7 @@ namespace DAM2_PSP_P0Git
             Console.WriteLine("Hola, soy Pedro!");
             Console.WriteLine("Hola, yo también soy Pedro!");
             Console.WriteLine("Hallo, soy Asier!");
-            Console.WriteLine("Hello, soy Andresao!");
+            Console.WriteLine("Holap, soy Xabi!");
         }
     }
 }
