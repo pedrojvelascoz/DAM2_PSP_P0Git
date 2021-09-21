@@ -38,6 +38,9 @@
   <ItemGroup>
     <Compile Include="Ander Gaona.cs" />
     <Compile Include="AndresGuallarChamorro.cs" />
+<<<<<<< HEAD
+    <Compile Include="Antonio_Nieto.cs" />
+=======
     <Compile Include="DiegoArbeloa.cs" />
     <Compile Include="IbaiAndreu.cs" />
     <Compile Include="PedroJAquerreta.cs" />
