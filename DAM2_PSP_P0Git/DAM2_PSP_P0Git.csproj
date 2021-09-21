@@ -36,8 +36,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ander Gaona.cs" />
     <Compile Include="AndresGuallarChamorro.cs" />
+<<<<<<< HEAD
     <Compile Include="Antonio_Nieto.cs" />
+=======
+    <Compile Include="DiegoArbeloa.cs" />
+    <Compile Include="PedroJAquerreta.cs" />
+    <Compile Include="RichardEguaras.cs" />
+>>>>>>> 042d7506e5d496d729326a13acad8ee25ce2263f
     <Compile Include="Principal.cs" />
     <Compile Include="Xabier_Ruiz.cs" />
   </ItemGroup>
