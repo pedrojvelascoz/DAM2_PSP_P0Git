@@ -36,7 +36,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+	<Compile Include="Ander Gaona.cs" />
     <Compile Include="AndresGuallarChamorro.cs" />
+    <Compile Include="PedroJAquerreta.cs" />	  
     <Compile Include="Principal.cs" />
     <Compile Include="Xabier_Ruiz.cs" />
   </ItemGroup>
