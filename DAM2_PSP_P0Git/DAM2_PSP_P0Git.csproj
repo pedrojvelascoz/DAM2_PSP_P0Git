@@ -41,6 +41,15 @@
     <Compile Include="IñigoAguirre.cs" />
     <Compile Include="Oskar.cs" />
     <Compile Include="PedroJAquerreta.cs" />
+    <Compile Include="Antonio_Nieto.cs" />
+    <Compile Include="CarlaBarberia.cs" />
+    <Compile Include="DiegoArbeloa.cs" />
+    <Compile Include="Elorri.cs" />
+    <Compile Include="IbaiAndreu.cs" />
+    <Compile Include="Dani_Rodriguez.cs" />
+    <Compile Include="PedroJAquerreta.cs" />
+    <Compile Include="RichardEguaras.cs" />
+    <Compile Include="AsierSanchezBarberena.cs" />
     <Compile Include="Principal.cs" />
     <Compile Include="Xabier_Ruiz.cs" />
   </ItemGroup>
