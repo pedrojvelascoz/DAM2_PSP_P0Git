@@ -6,20 +6,11 @@ using System.Threading.Tasks;
 
 namespace DAM2_PSP_P0Git
 {
-    class Principal
+    class PedroJAquerreta
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hola, soy Pedro!");
         }
     }
-
-    class SaludoJon
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola, soy Jon!");
-        }
-    }
 }
-
