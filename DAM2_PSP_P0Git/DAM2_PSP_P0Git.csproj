@@ -39,6 +39,7 @@
 	<Compile Include="Ander Gaona.cs" />
     <Compile Include="AndresGuallarChamorro.cs" />
     <Compile Include="Principal.cs" />
+    <Compile Include="Xabier_Ruiz.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
