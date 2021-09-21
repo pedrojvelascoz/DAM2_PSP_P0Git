@@ -17,17 +17,5 @@ namespace DAM2_PSP_P0Git
         }
     }
 
-    class SaludoJon
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola, soy Jon!");
-        }
-        public class Dani
-        {
-            String Nombre= "Dani";
-            String Apellido = "Rodriguez";
-        }
-    }
 }
 
