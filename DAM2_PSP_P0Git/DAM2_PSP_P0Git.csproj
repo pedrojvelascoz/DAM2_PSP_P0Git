@@ -35,8 +35,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Include="PedroJAquerreta.cs" />
+  <ItemGroup>	  
+    <Compile Include="AndresGuallarChamorro.cs" />
+    <Compile Include="PedroJAquerreta.cs" />	  
     <Compile Include="Principal.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
