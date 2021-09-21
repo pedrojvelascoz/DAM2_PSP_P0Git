@@ -15,6 +15,11 @@ namespace DAM2_PSP_P0Git
             Console.WriteLine("Hallo, soy Asier!");
             Console.WriteLine("Holap, soy Xabi!");
         }
+        public class Dani
+        {
+            String Nombre= "Dani";
+            String Apellido = "Rodriguez";
+        }
     }
 }
 
