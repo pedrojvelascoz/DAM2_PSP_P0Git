@@ -46,7 +46,6 @@
     <Compile Include="Dani_Rodriguez.cs" />
     <Compile Include="PedroJAquerreta.cs" />
     <Compile Include="RichardEguaras.cs" />
-    <Compile Include="PedroJAquerreta.cs" />
     <Compile Include="AsierSanchezBarberena.cs" />
     <Compile Include="Principal.cs" />
     <Compile Include="Xabier_Ruiz.cs" />
