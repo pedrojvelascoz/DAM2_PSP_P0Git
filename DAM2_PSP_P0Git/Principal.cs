@@ -16,5 +16,14 @@ namespace DAM2_PSP_P0Git
             Console.WriteLine("Holap, soy Xabi!");
         }
     }
+
+    class IbaiAndreu
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hola, soy Ibai");
+       
+        }
+    }
 }
 
