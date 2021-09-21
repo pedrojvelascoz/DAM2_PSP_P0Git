@@ -27,14 +27,5 @@ namespace DAM2_PSP_P0Git
             String Apellido = "Rodriguez";
         }
     }
-
-    class IbaiAndreu
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola, soy Ibai");
-           
-        }
-    }
 }
 
