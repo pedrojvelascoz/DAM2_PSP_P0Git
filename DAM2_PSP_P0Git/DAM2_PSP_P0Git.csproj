@@ -39,6 +39,7 @@
     <Compile Include="Ander Gaona.cs" />
     <Compile Include="AndresGuallarChamorro.cs" />
     <Compile Include="Antonio_Nieto.cs" />
+    <Compile Include="AsierA.cs" />
     <Compile Include="CarlaBarberia.cs" />
     <Compile Include="DiegoArbeloa.cs" />
     <Compile Include="Elorri.cs" />
