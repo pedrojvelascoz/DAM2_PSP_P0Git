@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DAM2_PSP_P0Git
 {
-    class RichardEguaras
+    class Principal
     {
         static void Main(string[] args)
         {
@@ -14,19 +14,6 @@ namespace DAM2_PSP_P0Git
             Console.WriteLine("Hola, yo también soy Pedro!");
             Console.WriteLine("Hallo, soy Asier!");
             Console.WriteLine("Holap, soy Xabi!");
-        }
-    }
-
-    class SaludoJon
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola, soy Jon!");
-        }
-        public class Dani
-        {
-            String Nombre= "Dani";
-            String Apellido = "Rodriguez";
         }
     }
 }
