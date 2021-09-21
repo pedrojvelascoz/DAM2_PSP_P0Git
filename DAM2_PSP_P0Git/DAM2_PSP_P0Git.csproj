@@ -42,6 +42,7 @@
     <Compile Include="Oskar.cs" />
     <Compile Include="PedroJAquerreta.cs" />
     <Compile Include="Antonio_Nieto.cs" />
+    <Compile Include="AsierA.cs" />
     <Compile Include="CarlaBarberia.cs" />
     <Compile Include="DiegoArbeloa.cs" />
     <Compile Include="Elorri.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="RichardEguaras.cs" />
     <Compile Include="AsierSanchezBarberena.cs" />
     <Compile Include="Principal.cs" />
+    <Compile Include="Ruben.cs" />
     <Compile Include="Xabier_Ruiz.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
